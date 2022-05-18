@@ -2,4 +2,4 @@
 
 <!--
 **apreshill/apreshill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am a Senior Data Scientist @IBM in AI Strategy & Innovation. I work to make AI more approachable, understandable, and empowering.
+I am a data scientist, behavioral scientist, and award-winning educator. 
